@@ -1,0 +1,33 @@
+
+<?xml version="1.0" standalone="no" ?>
+<level type="1" height="25" width="60" >
+	<!-- Draw the rectangular region for the snake to move in -->
+	<item type="1" xcol="0" ycol="0" xcount="1" ycount="1" > 25 </item>
+	<item type="1" xcol="1" ycol="0" xcount="59" ycount="1" > 29 </item>
+	<item type="1" xcol="1" ycol="24" xcount="59" ycount="1" > 29 </item>
+	<item type="1" xcol="59" ycol="1" xcount="1" ycount="24" > 10 </item>
+	<item type="1" xcol="0" ycol="1" xcount="1" ycount="24" > 10 </item>
+	<item type="1" xcol="59" ycol="0" xcount="1" ycount="1" > 11 </item>
+	<item type="1" xcol="0" ycol="24" xcount="1" ycount="1" > 24 </item>
+	<item type="1" xcol="59" ycol="24" xcount="1" ycount="1" > 12 </item>
+	<!-- end the draw region -->
+	<!-- Display the obstacles for the level -->
+<!--	<item type="1" xcol="10" ycol="01" xcount="01" ycount="01" > 10 </item>
+	<item type="1" xcol="10" ycol="05" xcount="10" ycount="01" > 29 </item>
+	<item type="1" xcol="04" ycol="02" xcount="01" ycount="01" > 10 </item>
+	<item type="1" xcol="04" ycol="03" xcount="01" ycount="01" > 28 </item>
+	<item type="1" xcol="04" ycol="04" xcount="01" ycount="01" > 10 </item>-->
+	<item type="1" xcol="04" ycol="05" xcount="16" ycount="01" > 1 </item>
+	<item type="1" xcol="20" ycol="05" xcount="01" ycount="01" > 11 </item>
+	<item type="1" xcol="20" ycol="06" xcount="1" ycount="10" > 10 </item>
+	<item type="1" xcol="20" ycol="16" xcount="1" ycount="1" > 24 </item>
+	<item type="1" xcol="21" ycol="16" xcount="30" ycount="1"> 29 </item>
+	<item type="1" xcol="22" ycol="16" xcount="10" ycount="1"> 2 </item>
+	
+	<item type="1" xcol="05" ycol="02" xcount="23" ycount="01" > 29 </item>
+	<item type="1" xcol="28" ycol="02" xcount="1" ycount="01" > 15 </item>
+	<item type="1" xcol="28" ycol="03" xcount="1" ycount="10" > 1 </item>
+	<item type="1" xcol="5" ycol="20" xcount="33" ycount="01" > 2 </item>
+	
+	<!-- end -->
+</level>
